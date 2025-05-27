@@ -1,4 +1,5 @@
-To learn Github,github action
-To learn jenkins,grafana,promethus
-practice handson
-implement in the daily automation
+- To learn Github,github action
+- To learn jenkins,grafana,promethus
+- practice handson
+- implement in the daily automation
+- Jenkins leaning
